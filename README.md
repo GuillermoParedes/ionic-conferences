@@ -1,4 +1,4 @@
-# Ionic React Conference App
+# Ionic React Conference App - Guillermo Paredes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
